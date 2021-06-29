@@ -2,7 +2,7 @@
 ## OVERVIEW
 This project takes the frequncies of the various chracters as input. It then calculates the codes of each individual chracter by using Huffman EnCoding and prefix codes.
 it then displays the frequencies of each and every character in the **PREORDER TRAVERSAL** of the constructed Tree.
-It the calculates the **Compression Ratio** achieved after application of the Huffman Encoding Algorithm.
+It then calculates the **Compression Ratio** achieved after application of Huffman Encoding Algorithm.
 ## THEORY
 * When the distribution of characters are **not even**, then we can use **Huffman Encoding**, so that we can reduce the total number of bits to save each character.
 * We will use **Prefix Codes** inorder to make unique Encoding and Decoding Possible.
